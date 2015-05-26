@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "LZConversationCell"
   s.version      = "0.0.1"
   s.summary      = "LZConversationCell use to display lastest message in IM App"
-  s.description  = "To display message."
+  s.description  = "LZConversationcell use in lastest converstaion controller in IM App"
   s.homepage     = "https://github.com/lzwjava/LZConversationCell"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author             = { "lzwjava" => "lzwjava@gmail.com" }
